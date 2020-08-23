@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Background Operations</string>
+    <string name="select_options">Please select one of the below options:-</string>
+    <string name="service_fragment">Service Fragment</string>
+    <string name="thread_fragment">Thread Fragment</string>
+    <string name="asynctask_fragment">AsyncTask Fragment</string>
+    <string name="press_to_exit">Press again to exit the app</string>
+    <string name="service_name">Background Service</string>
+    <string name="name">Name</string>
+    <string name="capital">Capital</string>
+    <string name="code">Code</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="async_task">Async Task</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="service_running">Service is Running</string>
+    <string name="service_stopped">Service is Stopped</string>
+    <string name="service">Service</string>
+    <string name="home">Home</string>
+    <string name="thread">Thread</string>
+    <string name="enter_time_to_launch_thread">Enter time interval(in seconds) to launch thread</string>
+    <string name="enter_time_interval">Please enter time interval to launch the Thread</string>
+    <string name="thread_launched">Thread Running %1d</string>
+    <string name="description">Here you can put the time interval to run a separate thread,a part from main UI thread,Below are swith and checkbox widgets to verify UI thread working</string>
+
+</resources>
